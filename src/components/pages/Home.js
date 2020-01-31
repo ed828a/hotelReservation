@@ -20,7 +20,7 @@ function Home() {
         </Hero>
         <Services />
         <FeaturedRooms />
-        <StyledHero />
+        {/* <StyledHero /> */}
         </>
     )
 }
